@@ -1,4 +1,4 @@
-# MIST-4610-project-2
+# Unveiling Crime Patterns and Insights in Los Angeles
 ## Team name and members:
 
 Group 1
